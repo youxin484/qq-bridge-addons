@@ -1,0 +1,4 @@
+node_modules/
+digest/
+audio/generated/
+*.log
